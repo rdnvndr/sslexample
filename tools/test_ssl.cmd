@@ -1,0 +1,1 @@
+c:\OpenSSL-Win32\bin\openssl.exe s_client -connect localhost:4422 | more
