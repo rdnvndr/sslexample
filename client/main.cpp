@@ -1,5 +1,6 @@
 #include "common.h"
 #include <openssl/x509.h>
+#include <string.h>
 
 //! Настройка клиента
 SSL_CTX *setup_client_ctx(void)
